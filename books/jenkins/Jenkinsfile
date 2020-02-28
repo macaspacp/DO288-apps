@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "macaspacp-books-dev"
-        STAGE_PROJECT = "macaspacp-books-stage"
+        DEV_PROJECT = "macasps-books-dev"
+        STAGE_PROJECT = "macasps-books-stage"
         APP_GIT_URL = "https://github.com/macaspacp/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
 
